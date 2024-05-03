@@ -1,0 +1,4 @@
+    1. Create A Project Folder -> 'web-app'
+    2. Create A Config Folder -> 'config'
+    3. Create A (PHP)Database file. -> 'database.php'
+    4. Push the code to github
